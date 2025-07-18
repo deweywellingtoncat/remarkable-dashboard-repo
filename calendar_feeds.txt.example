@@ -1,0 +1,14 @@
+# Add your Google Calendar iCal URLs here, one per line
+# To get your calendar URLs:
+# 1. Go to Google Calendar
+# 2. Click on the calendar name in the left sidebar
+# 3. Click "Settings and sharing"
+# 4. Scroll down to "Integrate calendar"
+# 5. Copy the "Secret address in iCal format" URL
+# 6. Paste it below (one URL per line)
+#
+# Example:
+# https://calendar.google.com/calendar/ical/your-email@gmail.com/private-abc123def456/basic.ics
+# https://calendar.google.com/calendar/ical/work-calendar@company.com/private-xyz789uvw012/basic.ics
+
+# PASTE_YOUR_CALENDAR_URLS_HERE_ONE_PER_LINE

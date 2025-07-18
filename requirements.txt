@@ -1,0 +1,8 @@
+arrow
+pytz
+requests
+jinja2
+ics
+dateutil
+weasyprint
+pypdf
